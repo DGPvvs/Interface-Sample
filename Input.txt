@@ -1,0 +1,9 @@
+Triangle 10 5.3 Red
+Cyrcle 5 Pink
+Rectangle 3.6 8.5 Green
+Volkswagen 50 Grey
+Opel 75 5000 Blue
+Cyrcle 6.6 DarkGreen
+Volkswagen 25 Yelow
+Rectangle 5.9 25 Cyan
+end
